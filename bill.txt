@@ -1,0 +1,7 @@
+==== Simple Billing System ====
+dahi x 2 @ ₹15.0 = ₹30.0
+dudh x 1 @ ₹36.0 = ₹36.0
+chocalet x 5 @ ₹2.0 = ₹10.0
+mava x 1 @ ₹10.0 = ₹10.0
+Total: ₹86.0
+Date:2025-06-28| Time : 01:39:03

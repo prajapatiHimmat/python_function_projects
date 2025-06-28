@@ -1,0 +1,15 @@
+
+weather in Surat:
+Temperature: 27.19°C
+☁️ condition : Few Clouds
+------------------------------
+
+weather in Mumbai:
+Temperature: 27.79°C
+☁️   condition : Overcast Clouds
+------------------------------
+
+weather in Udaipur:
+Temperature: 24.6°C
+☁️   condition : Overcast Clouds
+------------------------------
