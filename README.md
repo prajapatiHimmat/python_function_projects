@@ -23,6 +23,12 @@ These are beginner-to-intermediate level projects to boost Python practice.
 | ☁ Weather App | Enter city & get weather status (mock) |
 | 📇 Contact Book | Store and search contacts |
 | 🔁 Unit Converter | Convert units like km→miles, kg→grams |
+| 🧠 Mental Math Timer | Practice quick mental math calculations |
+| 📋 To-Do List | Add, remove & mark tasks as complete |
+| 📊 Billing Machine | Generate a simple bill with item prices |
+| 🔢 Multiplication Table | Generate tables for any number |
+| 🔡 Vowel/Consonant Counter | Count vowels and consonants in a sentence |
+| 🎮 Quiz Game | Ask user questions and calculate their score |
 
 ---
 
